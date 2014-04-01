@@ -1,0 +1,12 @@
+{
+  "name": "wintersmith-autoprefixer-sass",
+  "version": "0.1.0",
+  "author": "Timothy Marks <t@imothee.com>",
+  "description": "autoprefixer sass plugin for wintersmith",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "1.2.x",
+    "wintersmith-sass": "0.3.x",
+    "autoprefixer": "1.1.x"
+  }
+}
